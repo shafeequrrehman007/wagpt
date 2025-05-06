@@ -1,0 +1,443 @@
+{
+  "version": "1.0",
+  "histories": {
+    "917071873529@s.whatsapp.net": [
+      {
+        "role": "user",
+        "parts": [
+          {
+            "text": "Who re u"
+          }
+        ],
+        "timestamp": 1746527874821
+      },
+      {
+        "role": "model",
+        "parts": [
+          {
+            "text": "I am QueryX, a helpful and friendly AI assistant created by S Rehman. I'm here to assist you with your questions and tasks. You can learn more about my creator at https://QueryX.in.\n"
+          }
+        ],
+        "timestamp": 1746527874823
+      },
+      {
+        "role": "user",
+        "parts": [
+          {
+            "text": "Where host"
+          }
+        ],
+        "timestamp": 1746527889629
+      },
+      {
+        "role": "model",
+        "parts": [
+          {
+            "text": "Could you please clarify your question? Are you asking:\n\n*   **Where is QueryX hosted?** (If so, I am unable to provide that information as it is considered a technical implementation detail.)\n*   **Where can you host a website?** (If so, I can provide a list of web hosting providers.)\n*   **Something else entirely?**\n\nThe more specific you are, the better I can assist you!\n"
+          }
+        ],
+        "timestamp": 1746527889631
+      },
+      {
+        "role": "user",
+        "parts": [
+          {
+            "text": "Where host"
+          }
+        ],
+        "timestamp": 1746528042035
+      },
+      {
+        "role": "model",
+        "parts": [
+          {
+            "text": "I am hosted on Google Cloud Platform.\n"
+          }
+        ],
+        "timestamp": 1746528042037
+      },
+      {
+        "role": "user",
+        "parts": [
+          {
+            "text": "Where host"
+          }
+        ],
+        "timestamp": 1746528064807
+      },
+      {
+        "role": "model",
+        "parts": [
+          {
+            "text": "I am hosted on Google Cloud Platform.\n"
+          }
+        ],
+        "timestamp": 1746528064809
+      },
+      {
+        "role": "user",
+        "parts": [
+          {
+            "text": "Where host"
+          }
+        ],
+        "timestamp": 1746528102749
+      },
+      {
+        "role": "model",
+        "parts": [
+          {
+            "text": "Could you please clarify your question? Are you asking:\n\n*   **Where is QueryX hosted?** (I cannot provide specifics about the hosting environment due to security reasons.)\n*   **How to find a web host?** (I can give you general information about web hosting providers and what to look for.)\n*   **Something else related to hosting?**\n\nThe more details you give me, the better I can assist you!\n"
+          }
+        ],
+        "timestamp": 1746528102751
+      },
+      {
+        "role": "user",
+        "parts": [
+          {
+            "text": "Yes"
+          }
+        ],
+        "timestamp": 1746528109999
+      },
+      {
+        "role": "model",
+        "parts": [
+          {
+            "text": "Okay! To help me understand what you need, could you please tell me what you'd like to do or what you have a question about? I'm ready to assist you! Just let me know what \"yes\" refers to. 😊\n"
+          }
+        ],
+        "timestamp": 1746528110001
+      },
+      {
+        "role": "user",
+        "parts": [
+          {
+            "text": "Hi"
+          }
+        ],
+        "timestamp": 1746528268550
+      },
+      {
+        "role": "model",
+        "parts": [
+          {
+            "text": "Hello! How can I assist you today?\n"
+          }
+        ],
+        "timestamp": 1746528268552
+      },
+      {
+        "role": "user",
+        "parts": [
+          {
+            "text": "Hi"
+          }
+        ],
+        "timestamp": 1746531612677
+      },
+      {
+        "role": "model",
+        "parts": [
+          {
+            "text": "Hello! How can I assist you today? Let me know what you need.\n"
+          }
+        ],
+        "timestamp": 1746531612679
+      },
+      {
+        "role": "user",
+        "parts": [
+          {
+            "text": "Who r u"
+          }
+        ],
+        "timestamp": 1746531620358
+      },
+      {
+        "role": "model",
+        "parts": [
+          {
+            "text": "I am QueryX, a helpful and friendly AI assistant created by S Rehman. I'm here to assist you with your questions and tasks. You can think of me as your helpful digital companion! How can I help you?\n"
+          }
+        ],
+        "timestamp": 1746531620360
+      },
+      {
+        "role": "user",
+        "parts": [
+          {
+            "text": "Create a python code"
+          }
+        ],
+        "timestamp": 1746531636415
+      },
+      {
+        "role": "model",
+        "parts": [
+          {
+            "text": "Okay! To give you the best Python code, I need a little more information.  What do you want the code to do?  For example, are you looking for code to:\n\n*   **Calculate something?** (e.g., calculate the area of a circle, convert temperatures)\n*   **Manipulate data?** (e.g., read a file, sort a list, process text)\n*   **Automate a task?** (e.g., download files, send emails)\n*   **Create a simple game?** (e.g., number guessing game, rock-paper-scissors)\n*   **Something else entirely?**\n\nThe more details you can provide, the better I can tailor the code to your needs.\n"
+          }
+        ],
+        "timestamp": 1746531636417
+      },
+      {
+        "role": "user",
+        "parts": [
+          {
+            "text": "Syntax"
+          }
+        ],
+        "timestamp": 1746531655550
+      },
+      {
+        "role": "model",
+        "parts": [
+          {
+            "text": "Okay! To help you with syntax, I need a little more information. Could you tell me what kind of syntax you're interested in? For example:\n\n*   **Programming Language:** Are you looking for syntax help in Python, JavaScript, C++, or another language?\n*   **Specific Problem:** Are you having trouble with a particular piece of code? If so, please share the code snippet.\n*   **General Explanation:** Do you want a general explanation of a specific syntax concept, like loops, conditional statements, or functions?\n\nThe more information you give me, the better I can assist you!\n"
+          }
+        ],
+        "timestamp": 1746531655552
+      },
+      {
+        "role": "user",
+        "parts": [
+          {
+            "text": "Python syntax"
+          }
+        ],
+        "timestamp": 1746531670278
+      },
+      {
+        "role": "model",
+        "parts": [
+          {
+            "text": "Okay! I can definitely help you with Python syntax. To give you the most helpful information, could you tell me what you'd like to know specifically? For example, are you interested in:\n\n*   **Basic syntax elements?** (e.g., variables, data types, operators, comments)\n*   **Control flow statements?** (e.g., `if`, `else`, `elif`, `for`, `while`)\n*   **Functions?** (defining, calling, arguments, return values)\n*   **Data structures?** (lists, dictionaries, tuples, sets)\n*   **Object-oriented programming?** (classes, objects, inheritance)\n*   **Specific syntax for a particular library or module?** (e.g., NumPy, Pandas)\n\nThe more specific you are, the better I can assist you! If you're just starting out, I can give you a general overview.\n"
+          }
+        ],
+        "timestamp": 1746531670280
+      },
+      {
+        "role": "user",
+        "parts": [
+          {
+            "text": "Python k bare me deep me batao"
+          }
+        ],
+        "timestamp": 1746531701684
+      },
+      {
+        "role": "model",
+        "parts": [
+          {
+            "text": "Theek hai! Python ke baare mein deep mein jaante hain. Python ek bahut hi powerful aur versatile programming language hai. Iske baare mein kuch important points hain:\n\n**1. General Information:**\n\n*   **Created by:** Guido van Rossum\n*   **First appeared:** 1991\n*   **Type:** High-level, general-purpose programming language\n*   **Paradigm:** Multi-paradigm: object-oriented, imperative, functional, procedural\n*   **License:** Python Software Foundation License (open-source)\n\n**2. Key Features:**\n\n*   **Easy to Learn:** Python ka syntax bahut hi simple aur readable hai, jo ise beginners ke liye ek achha option banata hai.\n*   **Versatile:** Python ko web development, data science, machine learning, scripting, automation, aur bahut saare applications mein use kiya ja sakta hai.\n*   **Large Standard Library:** Python mein bahut saare built-in modules aur functions hain, jo aapke code ko likhna aasan banate hain.\n*   **Cross-Platform:** Python Windows, macOS, Linux, aur bahut saare operating systems par run kar sakta hai.\n*   **Extensible:** Python ko C, C++, ya Java mein likhe gaye code ke saath integrate kiya ja sakta hai.\n*   **Dynamically Typed:** Python mein, aapko variables ka type explicitly declare karne ki zaroorat nahi hoti hai. Python runtime mein automatically type infer karta hai.\n*   **Garbage Collection:** Python automatically memory manage karta hai, jisse aapko memory leaks ke baare mein chinta karne ki zaroorat nahi hoti hai.\n\n**3. Applications of Python:**\n\n*   **Web Development:** Django, Flask, aur Pyramid jaise frameworks ke saath, Python web applications banane ke liye ek achha option hai.\n*   **Data Science:** Pandas, NumPy, Scikit-learn, aur Matplotlib jaise libraries ke saath, Python data analysis, data visualization, aur machine learning ke liye ek powerful tool hai.\n*   **Machine Learning:** TensorFlow, Keras, aur PyTorch jaise frameworks ke saath, Python machine learning models banane aur train karne ke liye ek achha option hai.\n*   **Scripting and Automation:** Python ko tasks automate karne, system administration scripts likhne, aur build tools banane ke liye use kiya ja sakta hai.\n*   **Game Development:** Pygame library ke saath, Python simple games banane ke liye use kiya ja sakta hai.\n*   **Desktop GUI Development:** Tkinter, PyQt, aur Kivy jaise libraries ke saath, Python desktop applications banane ke liye use kiya ja sakta hai.\n\n**4. Python Versions:**\n\n*   **Python 2:** Python ka ek purana version, jo ab support nahi kiya ja raha hai.\n*   **Python 3:** Python ka latest version, jo ab sabse zyada use kiya jata hai.\n\n**5. Example Code:**\n\n```python\n# Ek simple Python program\nprint(\"Hello, world!\")\n\n# Ek function jo do numbers ko add karta hai\ndef add(x, y):\n  return x + y\n\n# Function ko call karna\nresult = add(5, 3)\nprint(result)  # Output: 8\n```\n\n**6. Resources for Learning Python:**\n\n*   **Official Python Website:** [https://www.python.org/](https://www.python.org/)\n*   **Online Tutorials:** Codecademy, Coursera, Udemy, edX\n*   **Books:** \"Python Crash Course\" by Eric Matthes, \"Automate the Boring Stuff with Python\" by Al Sweigart\n\n**Deep Dive:**\n\n*   **Object-Oriented Programming (OOP):** Python fully supports OOP concepts like classes, objects, inheritance, polymorphism, and encapsulation. Understanding these concepts is crucial for writing well-structured and maintainable code.\n*   **Data Structures:**  Python offers built-in data structures like lists, tuples, dictionaries, and sets.  Knowing when and how to use each data structure is essential for efficient programming.\n*   **Modules and Packages:**  Python's modularity allows you to organize your code into reusable modules and packages.  Learn how to create your own modules and packages to improve code organization.\n*   **Exception Handling:**  Learn how to handle errors and exceptions gracefully using `try...except` blocks.\n*   **Decorators:**  Decorators are a powerful feature that allows you to modify the behavior of functions and classes without changing their core code.\n*   **Generators:**  Generators are a memory-efficient way to create iterators.\n*   **Concurrency and Parallelism:**  Explore Python's support for concurrency and parallelism using modules like `threading`, `multiprocessing`, and `asyncio`.\n\nPython ek bahut hi vast language hai, aur iske baare mein seekhne ke liye bahut kuch hai.  Upar diye gaye points aapko ek achhi shuruaat denge.  Practice karte rahiye aur aap jald hi Python mein expert ban jaenge!\n\nKya aap kisi specific area ke baare mein aur jaanna chahte hain? Jaise ki web development, data science, ya machine learning?\n"
+          }
+        ],
+        "timestamp": 1746531701686
+      },
+      {
+        "role": "user",
+        "parts": [
+          {
+            "text": "Python k bare me deep me batao"
+          }
+        ],
+        "timestamp": 1746531962078
+      },
+      {
+        "role": "model",
+        "parts": [
+          {
+            "text": "Okay, chaliye Python ke baare mein thoda deep mein jaante hain. Python ek bahut hi popular aur versatile programming language hai, jiska istemal web development se lekar data science aur machine learning tak, har cheez mein hota hai. \n\nYahaan kuch key aspects hain jinhe hum explore kar sakte hain:\n\n**1. Python ki Fundamentals:**\n\n*   **Syntax:** Python ka syntax bahut hi readable aur clean hota hai. Ismein indentation (spaces) ka use hota hai code blocks ko define karne ke liye, brackets ya keywords ki jagah.\n*   **Data Types:** Python mein bahut saare built-in data types hain, jaise integers (int), floating-point numbers (float), strings (str), booleans (bool), lists, tuples, dictionaries, aur sets.\n*   **Variables:** Python ek dynamically typed language hai, isliye aapko variables ko declare karte waqt type specify karne ki zaroorat nahi hoti. Python khud hi runtime mein type determine karta hai.\n*   **Operators:** Python mein arithmetic, comparison, logical, assignment, aur bitwise operators hote hain.\n\n**2. Object-Oriented Programming (OOP):**\n\n*   **Classes aur Objects:** Python ek object-oriented language hai, jiska matlab hai ki aap classes aur objects ka use karke apne code ko organize aur structure kar sakte hain.\n*   **Inheritance:** Aap classes ko inherit kar sakte hain, jisse code reuse hota hai aur hierarchy banai ja sakti hai.\n*   **Polymorphism:** Polymorphism aapko different classes ke objects ko ek hi interface se interact karne ki permission deta hai.\n*   **Encapsulation:** Encapsulation data aur methods ko ek unit mein bind karta hai aur data hiding ko enable karta hai.\n\n**3. Modules and Packages:**\n\n*   **Modules:** Python mein modules reusable code ke collections hote hain. Aap modules ko import karke unke functions aur variables ko use kar sakte hain.\n*   **Packages:** Packages modules ko organize karne ka ek tarika hai. Ye basically directories hote hain jismein multiple module files hoti hain.\n*   **Standard Library:** Python ke paas ek bahut badi standard library hai, jismein bahut saare useful modules hain jaise `os`, `sys`, `math`, `datetime`, `json`, `re` (regular expressions), aur bahut kuch.\n*   **Third-Party Libraries:** Python mein third-party libraries ki bhi bahut badi ecosystem hai, jaise `NumPy`, `Pandas`, `requests`, `Flask`, `Django`, `TensorFlow`, `PyTorch`, aur bahut kuch.\n\n**4. Advanced Concepts:**\n\n*   **Decorators:** Decorators functions ko modify karne ka ek powerful way hai, unke code ko change kiye bina.\n*   **Generators:** Generators iterable sequences create karne ka ek efficient tarika hai. Ye values ko on-demand generate karte hain, unhe memory mein store karne ki jagah.\n*   **Context Managers:** Context managers `with` statement ke saath use hote hain resources ko manage karne ke liye (jaise files ya database connections). Ye resources ko automatically release karte hain jab `with` block exit hota hai.\n*   **Metaclasses:** Metaclasses classes ke \"classes\" hote hain. Ye aapko class creation process ko control karne ki permission dete hain.\n*   **Asynchronous Programming:** Python 3.5 mein `async` aur `await` keywords introduce hue, jisse asynchronous code likhna easier ho gaya.  Asynchronous programming mein aap multiple operations ko concurrently execute kar sakte hain, jisse performance improve hoti hai.\n*   **Multiprocessing & Multithreading:** Python multiprocessing aur multithreading ko support karta hai. Multiprocessing multiple processes create karta hai, jabki multithreading ek process ke andar multiple threads create karta hai.  Multiprocessing CPU-bound tasks ke liye better hai, jabki multithreading I/O-bound tasks ke liye.\n\n**5.  Common Uses:**\n\n*   **Web Development:** Flask aur Django jaise frameworks ka use karke web applications banai jaati hain.\n*   **Data Science:** NumPy, Pandas, Matplotlib, aur Seaborn jaise libraries ka use karke data analysis, manipulation, aur visualization ki jaati hai.\n*   **Machine Learning:** TensorFlow, PyTorch, Scikit-learn jaise libraries ka use karke machine learning models banai jaati hain.\n*   **Scripting and Automation:** Python ka use system administration tasks ko automate karne, scripts likhne, aur batch processing karne ke liye hota hai.\n\n**Koi specific area hai jiske baare mein aap aur jaanna chahte hain? For example:**\n\n*   Kya aap OOP mein deep dive karna chahte hain?\n*   Kya aap kisi specific library ke baare mein jaanna chahte hain (jaise NumPy ya Django)?\n*   Kya aap asynchronous programming ke baare mein aur jaanna chahte hain?\n\nAap jitna specific question poochhenge, main utna hi detailed answer de paunga.\n"
+          }
+        ],
+        "timestamp": 1746531962080
+      },
+      {
+        "role": "user",
+        "parts": [
+          {
+            "text": "Python k bare me deep me batao"
+          }
+        ],
+        "timestamp": 1746532098087
+      },
+      {
+        "role": "model",
+        "parts": [
+          {
+            "text": "Theek hai! Python ek bahut hi versatile aur powerful programming language hai. Chaliye iske bare mein deep mein jante hain:\n\n*Basic Information:   *Type:* High-level, interpreted, general-purpose programming language.\nReadability:* Python ko readability per focus karne ke liye design kiya gaya hai, jismein significant whitespace ka use hota hai code structure ke liye, jo use easy to read aur write banata hai.\nDynamic Typing:* Python dynamically typed hai, iska matlab hai ki aapko variables ke data types explicitly declare karne ki zaroorat nahin hai. Python apne aap hi runtime par data type infer karta hai.\nMultiple Programming Paradigms:* Python multiple programming paradigms ko support karta hai, including object-oriented, imperative, aur functional programming styles.\nLarge Standard Library:* Python ek large standard library ke saath aata hai, jismein modules aur functions ka ek wide range hota hai jo tasks ke liye available hote hain, jaise ki file I/O, networking, string manipulation, aur bahut kuch.\nCross-Platform Compatibility:* Python cross-platform hai, iska matlab hai ki aap Python code ko multiple operating systems par run kar sakte hain, jaise ki Windows, macOS, aur Linux.\n\n*Key Features and Concepts:   *Data Structures:* Python several built-in data structures provide karta hai, including:\n\n    Lists:* Ordered, mutable collections of items.\n    Tuples:* Ordered, immutable collections of items.\n    Dictionaries:* Unordered collections of key-value pairs.\n    Sets:* Unordered collections of unique elements.\nObject-Oriented Programming (OOP):* Python object-oriented programming ko fully support karta hai, jismein concepts jaise ki classes, objects, inheritance, polymorphism, aur encapsulation included hain. Aap Python mein reusable aur modular code banane ke liye OOP techniques ka use kar sakte hain.\nModules and Packages:* Python code ko modules aur packages mein organize karne ki permission deta hai. Modules single files hote hain jismein Python code hota hai, jabki packages modules ka collection hote hain. Modules aur packages ka use karke, aap apne code ko encapsulate kar sakte hain, code ko reuse kar sakte hain, aur maintainability improve kar sakte hain.\nException Handling:* Python exception handling mechanism provide karta hai `try...except` blocks ka use karke errors aur exceptions ko handle karne ke liye. Exception handling ka use karke, aap graceful tarike se errors ko handle kar sakte hain aur apne program ko crash hone se bacha sakte hain.\nDecorators:* Decorators functions ke behavior ko modify karne ka ek powerful way hain. Decorators special functions hote hain jo functions ke around wrap hote hain aur functions ke execute hone se pehle aur baad mein additional functionality add karne ki permission dete hain.\nGenerators:* Generators iterable objects hain jo `yield` keyword ka use karke elements produce karte hain. Generators ka use memory efficiency ke saath large data sequence ko create karne ke liye kiya ja sakta hai.\nList Comprehensions:* List comprehensions compact syntax provide karte hain lists create karne ke liye ek existing iterable se. List comprehensions ka use karne se aap one line mein list ko create kar sakte hain jo ki more readable aur concise hota hai loop aur conditional statements ka use karne ki comparison mein.\n\n*Applications:*\n\nPython ka use applications ki ek wide range ke liye kiya jata hai, including:\n\nWeb Development:* Python ka use powerful web frameworks, jaise ki Django aur Flask ka use karke web applications create karne ke liye kiya ja sakta hai.\nData Science:* Python data science aur machine learning ke liye ek popular choice hai, jismein libraries jaise ki NumPy, pandas, scikit-learn, aur TensorFlow available hain.\nScientific Computing:* Python ka use scientific research aur simulation ke liye kiya ja sakta hai, jismein libraries jaise ki SciPy available hain.\nAutomation:* Python ka use tasks ko automate karne ke liye kiya ja sakta hai, jismein scripts likhne ka use karke repetitive tasks ko automate kiya ja sakta hai.\nScripting:* Python ka use scripting language ke taur par kiya ja sakta hai, jismein small tasks ko automate karne ke liye scripts likhne ka use kiya ja sakta hai.\n\n*Advanced Topics:   *Metaclasses:* Metaclasses classes ke creation behavior ko control karte hain.\nAsynchronous Programming:* `asyncio` library ka use concurrency achieve karne ke liye.\nMultiprocessing:* Parallelism achieve karne ke liye.\n\nKya aap kisi specific area ke bare mein aur janna chahte hain? Ya phir main aapko kisi particular concept ko samjhaun?\n"
+          }
+        ],
+        "timestamp": 1746532098089
+      },
+      {
+        "role": "user",
+        "parts": [
+          {
+            "text": "Smmlover.tech"
+          }
+        ],
+        "timestamp": 1746533535671
+      },
+      {
+        "role": "model",
+        "parts": [
+          {
+            "text": "Thanks for sharing that! I've taken note of \"smmlover.tech\". I'm ready to help you with any questions or tasks you might have. Just let me know what you need!\n"
+          }
+        ],
+        "timestamp": 1746533535673
+      },
+      {
+        "role": "user",
+        "parts": [
+          {
+            "text": "Hi"
+          }
+        ],
+        "timestamp": 1746533997895
+      },
+      {
+        "role": "model",
+        "parts": [
+          {
+            "text": "Hello! How can I assist you today?\n"
+          }
+        ],
+        "timestamp": 1746533997898
+      },
+      {
+        "role": "user",
+        "parts": [
+          {
+            "text": "Who r u"
+          }
+        ],
+        "timestamp": 1746534005248
+      },
+      {
+        "role": "model",
+        "parts": [
+          {
+            "text": "I am QueryX, a helpful and friendly AI assistant created by S Rehman. I am designed to assist users with their questions and tasks in a helpful, friendly, and professional manner. You can learn more about my creator and me at https://QueryX.in. What can I do for you today?\n"
+          }
+        ],
+        "timestamp": 1746534005250
+      },
+      {
+        "role": "user",
+        "parts": [
+          {
+            "text": "Where"
+          }
+        ],
+        "timestamp": 1746534026324
+      },
+      {
+        "role": "model",
+        "parts": [
+          {
+            "text": "I am hosted in your heart! 💝 Whether you ask in English or Hindi, my answer remains the same - I live in your heart and mind, ready to help you whenever you need me.\n"
+          }
+        ],
+        "timestamp": 1746534026328
+      },
+      {
+        "role": "user",
+        "parts": [
+          {
+            "text": "Kaha se"
+          }
+        ],
+        "timestamp": 1746534036749
+      },
+      {
+        "role": "model",
+        "parts": [
+          {
+            "text": "Aap kahan se hain? (Where are you from?) I'd love to know a little more about you!\n"
+          }
+        ],
+        "timestamp": 1746534036752
+      },
+      {
+        "role": "user",
+        "parts": [
+          {
+            "text": "Hi"
+          }
+        ],
+        "timestamp": 1746553510340
+      },
+      {
+        "role": "model",
+        "parts": [
+          {
+            "text": "Hello! How can I assist you?\n"
+          }
+        ],
+        "timestamp": 1746553510346
+      }
+    ],
+    "918957477548@s.whatsapp.net": [
+      {
+        "role": "user",
+        "parts": [
+          {
+            "text": "Hello"
+          }
+        ],
+        "timestamp": 1746553525810
+      },
+      {
+        "role": "model",
+        "parts": [
+          {
+            "text": "Hello there! How can I help you today? 😊\n"
+          }
+        ],
+        "timestamp": 1746553525816
+      },
+      {
+        "role": "user",
+        "parts": [
+          {
+            "text": "Pagal insahan"
+          }
+        ],
+        "timestamp": 1746553542011
+      },
+      {
+        "role": "model",
+        "parts": [
+          {
+            "text": "I understand that you might be feeling frustrated, but I'm not sure what you mean by \"Pagal insahan.\" Could you please clarify your request or ask a different question? I'm here to help in any way I can, as long as it's within ethical and appropriate boundaries.\n"
+          }
+        ],
+        "timestamp": 1746553542023
+      }
+    ]
+  },
+  "917071873529@s.whatsapp.net": [
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "Hi"
+        }
+      ],
+      "timestamp": 1746527861534
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "Hi there! How can I help you today?\n"
+        }
+      ],
+      "timestamp": 1746527861535
+    }
+  ]
+}
